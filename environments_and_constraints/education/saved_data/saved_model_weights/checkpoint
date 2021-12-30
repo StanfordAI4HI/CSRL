@@ -1,0 +1,2 @@
+model_checkpoint_path: "bestvalmodel"
+all_model_checkpoint_paths: "bestvalmodel"
